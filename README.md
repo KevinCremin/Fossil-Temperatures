@@ -1,6 +1,6 @@
 # Fossil-Temperatures
 <pre>
-The data set is FTIR from a stock pile of 400,000 year old bison bones thought to have been killed by early humans. We are trying to understand the eating habbits of early humans and whether or not they were cooking meat at this time and to what temperatures.
+'''The data set is FTIR from a stock pile of 400,000 year old bison bones thought to have been killed by early humans. We are trying to understand the eating habbits of early humans and whether or not they were cooking meat at this time and to what temperatures.'''
 
 "Bones_project_v2" - python notebook for training data analysis and model training
 "bones_model_live" - python notebook for using the model on out of sample data sets
